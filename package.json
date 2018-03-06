@@ -4,7 +4,7 @@
   "description": "spinal-env-admin-pannel-user-manager",
   "main": "index.js",
   "dependencies": {
-    "spinal-env-admin-pannel-user-manager": "https://github.com/spinalcom/spinal-env-viewer-annotation-group-pannel.git"
+    "spinal-env-viewer-annotation-group-pannel": "https://github.com/spinalcom/spinal-env-viewer-annotation-group-pannel.git"
   },
   "devDependencies": {},
   "scripts": {
