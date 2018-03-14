@@ -31,4 +31,4 @@ function concat_lib(lib) {
 
 module.exports = {};
 
-concat_lib(require('spinal-env-viewer-annotation-group-pannel'));
+concat_lib(require('spinal-env-viewer-annotation-group-panel'));
